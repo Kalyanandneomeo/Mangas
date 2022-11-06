@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+
+.note {
+    color: yellow;
+    font-weight: bold;
+}
+
+
+
+.first {
+    color: white;
+}
+
+img { 
+    height: auto;
+    width: 700px;
+}
+
+.home {
+    height: auto;
+    width: 100px;
+}
