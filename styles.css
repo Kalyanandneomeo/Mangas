@@ -2,6 +2,7 @@
     background-color: black;
     color: white;
     text-align: justify;
+    box-sizing: border-box;
 }
 
 .note {
@@ -16,8 +17,12 @@
 }
 
 img { 
+    background-color: aquamarine;
     height: auto;
     width: 500px;
+    border: 3px solid white;
+    padding: 10px solid black;
+    margin: 20px;
 }
 
 .home {
